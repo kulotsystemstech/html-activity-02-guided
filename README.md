@@ -54,6 +54,7 @@ and another blank line defined by the `<br/>` tag.
     </div>
 
 </body>
+</html>
 ```
 
 The `<div>` wrapper in this section has the `class` attribute set to `"intro"`.
@@ -87,6 +88,7 @@ We will highlight the link of the **About Me** page using the `<b>` tag.
     </div>
 
 </body>
+</html>
 ```
 
 The `<div>` wrapper in this section has the `class` attribute set to `"nav"`
@@ -110,7 +112,9 @@ This heading is defined by an `<h2>` tag with its `align` attribute set to `"cen
             My goal is to create beautiful and intuitive user interfaces that provide a great user experience.
         </p>
     </div>
+
 </body>
+</html>
 ```
 
 The `<div>` wrapper in this section has the `class` attribute set to `"content"`.
@@ -187,6 +191,7 @@ Also, in order for the link to open in another browser tab, its `target` attribu
     </div>
 
 </body>
+</html>
 ```
 
 
@@ -256,4 +261,5 @@ To handle this, we will add `mailto:` at the beginning of the `href` attribute.
     </div>
 
 </body>
+</html>
 ```
