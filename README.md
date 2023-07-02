@@ -17,6 +17,10 @@ Create the following files inside the [**src**](/src) folder in this project:
 2. `projects.html`
 3. `contact.html`
 
+Then, follow along with this guide.
+
+To test your output, simply open it in your preferred web browser.
+
 
 ### Page 1: About Me `[index.html]`
 #### About Me | Intro
