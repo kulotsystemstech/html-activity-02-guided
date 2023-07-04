@@ -1,5 +1,5 @@
 ## HTML | Activity #2 (Guided): Attributes and Links
-In this activity, we will create a website with three pages:
+In this activity, we will create a simple **Portfolio Website** with three pages:
 
 #### Page 1: About Me
 ![about-me-page](assets/html-02--01-about-me-page.jpg)
